@@ -1,2 +1,2 @@
 # Auto-Rar-UnRar-CLI
-Auto compress (Rar) or Un-compress (UnRar) using command line for Windows &amp; macOS
+A collection of CLI (Command Line Interface) used for compress (Rar) or Un-compress (UnRar) for Windows &amp; macOS
